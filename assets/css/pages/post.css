@@ -63,21 +63,6 @@
   z-index: 1;
 }
 
-.sm-post-share {
-  display: flex;
-  gap: 1rem;
-  align-items: center;
-  justify-content: center;
-  line-height: 1;
-}
-
-.sm-post-share p {
-  font-size: var(--small);
-  text-transform: uppercase;
-  letter-spacing: var(--letter-spacing);
-  opacity: 0.5;
-}
-
 .sm-share-icon {
   box-sizing: content-box;
   width: 1.5rem;
